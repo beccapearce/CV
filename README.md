@@ -1,4 +1,5 @@
 ## Rebecca Pearce
+------------------------
 
  [Education and Projects](#education) | [Skills](#skills) | [Previous Work Experience](#experience) | [Interests](#interests)
 
@@ -14,7 +15,7 @@ I am looking for a back-end developer role which provides opportunities to learn
 
 I believe that teaching is one of the best ways you can learn.
 
-I have always incorporated some form of mentoring into my role. During university I was a mentor for 9 new students. This led me to volunteering as a Latin teacher and then taking a job in that same company after a year. I then continued this guiding role at makers by having two mentees and aiding them in their coding journey.
+I have always incorporated some form of mentoring into my role. During university I was a mentor for 9 new students. This led me to volunteering as a Latin teacher and then taking a job in that same charity after a year. I then continued this guiding role at makers by having two mentees and aiding them in their coding journey.
 
 #### Learning
 
@@ -26,7 +27,7 @@ I love to learn new information, especially discovering idiomatic features of la
 
 Working in a team brings out the best in all members.
 
-Working in a team I have come to see is the best way to code, within makers academy I have worked with pairs from the start and then progressed to working in teams of 4 to 5. During our final project we maintained great communication within the team despite working of different sections of the project enabling us to have a full in-depth understanding of how the whole code base worked not just our own individual tasks.
+Working in a team I have come to see is the best way to code, within makers academy I have worked with pairs from the start and then progressed to working in teams of 4 to 5. During our final project we maintained great communication within the team despite working on different sections of the project, enabling us to have a full in-depth understanding of how the whole code base worked not just our own individual tasks.
 
 ## <a name="education">Education and Projects</a>
 

@@ -43,7 +43,7 @@ Projects I am proud of:
 
 Project title  | Description  									| Timeframe | Technologies | Testing | Link
 ------------- | ------------------------------	| ------------- |------------- |--------- | ----------------
-[Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) | Quizzbuzz is a multiplayer timed multiple choice quiz game,  | 10 days | Elixir, Phoenix Framework, PostgreSQL| ExUnit | [See it in action here](https://qzbz.herokuapp.com/)
+[Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) | Quizzbuzz is a multiplayer timed multiple choice quiz game,  | 10 days | Elixir, Phoenix, PostgreSQL| ExUnit | [See it in action here](https://qzbz.herokuapp.com/)
 [Bloom](https://github.com/thehappinessproject/happiness_project)| A skills tracking web app | 3 days | Ruby, Ruby on Rails, JQuery, PostgreSQL | Rspec, Capybara | [Check it out](http://bloomtracker.herokuapp.com)
 
 

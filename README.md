@@ -14,19 +14,19 @@ I am looking for a back-end developer role which provides opportunities to learn
 
 I believe that teaching is one of the best ways you can learn.
 
-I have always incorporated some form of mentoring into my role. During university I was a mentor for 9 new students. This led me to volunteering as a Latin teacher and then taking a job in that same charity after a year. I then continued this guiding role at makers by having two mentees and aiding them in their coding journey.
+I have always incorporated some form of mentoring into my role. During university I was a mentor for 9 new students. This led me to volunteering as a Latin teacher and then taking a job in that same charity after a year. I then continued this guiding role at Makers Academy by having two mentees and aiding them in their coding journey.
 
 #### Learning
 
 Learning is a driving force in my coding projects.
 
-I love to learn new information, especially discovering idiomatic features of languages both natural and in coding. I have demonstrated this multiple times: through my degree which was an exercise in constant problem solving, the intensive nature of the Makers Academy course, and finally through learning a new language (Elixir) within 3 days and going on to produce [Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) as a final project piece at the end of the makers course.
+I love to learn new information, especially discovering idiomatic features of languages both natural and in coding. I have demonstrated this multiple times: through my degree which was an exercise in constant problem solving, the intensive nature of the Makers Academy course, and finally through learning a new language (Elixir) within 3 days and going on to produce [Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) as a final project piece at the end of the Makers Academy course.
 
 #### Team work
 
 Working in a team brings out the best in all members.
 
-Working in a team I have come to see is the best way to code, within makers academy I have worked with pairs from the start and then progressed to working in teams of 4 to 5. During our final project we maintained great communication within the team despite working on different sections of the project, enabling us to have a full in-depth understanding of how the whole code base worked not just our own individual tasks.
+Working in a team I have come to see is the best way to code, within Makers Academy I have worked with pairs from the start and then progressed to working in teams of 4 to 5. During our final project we maintained great communication within the team despite working on different sections of the project, enabling us to have a full in-depth understanding of how the whole code base worked not just our own individual tasks.
 
 ## <a name="education">Education and Projects</a>
 
@@ -57,8 +57,7 @@ Linguistics is the study of language, its processing in the brain, the sounds th
 
 - **Teacher at The Latin Programme** Nov 2014 - July 2016
 - **Assistant at UCL Pre-sessional courses** July 2015 - September 2015
-- **TEFL Teacher at EF** May 2015 - July 2015
-- **Mentor at UCL** November 2012 - Sep 2013
+- **TEFL Teacher at Education First** May 2015 - July 2015
 - **Tutor at Explore Learning** Sep 2012 - Sep 2013
 
 ## <a name="interests">Interests</a>

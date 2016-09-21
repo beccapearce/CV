@@ -51,16 +51,18 @@ Project title  | Description  									| Timeframe | Technologies | Testing | Li
 
 - Linguistics, BA Hons 2:1
 
-Linguistics is the study of language, its processing in the brain, the sounds that form it, how it's put together and how meaning is conveyed. I did this course with an international year spent at Ca Foscari, University of Venice.
+Linguistics is the study of language, its processing in the brain, the sounds that form it and how it's put together. I did this course with an international year spent at Ca Foscari, University of Venice.
 
 ## <a name="experience">Previous Work Experience</a>
 
 - **Teacher at The Latin Programme** Nov 2014 - July 2016
-- **Mentor at UCL** Sep 2012 - Sep 2013
-
+- **Assistant at UCL Pre-sessional courses** July 2015 - September 2015
+- **TEFL Teacher at EF** May 2015 - July 2015
+- **Mentor at UCL** November 2012 - Sep 2013
+- **Tutor at Explore Learning** Sep 2012 - Sep 2013
 
 ## <a name="interests">Interests</a>
-- Yoga
 - Volunteering (I am part of an organisation that works with young people with disabilities)
+- Yoga
 - Baking
 - Languages (Latin and Italian)

@@ -64,3 +64,4 @@ Linguistics is the study of language, its processing in the brain, the sounds th
 - Yoga
 - Volunteering (I am part of an organisation that works with young people with disabilities)
 - Baking
+- Languages (Latin and Italian)

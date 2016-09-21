@@ -1,9 +1,8 @@
-## Rebecca Pearce
-------------------------
+# Rebecca Pearce
 
  [Education and Projects](#education) | [Skills](#skills) | [Previous Work Experience](#experience) | [Interests](#interests)
 
-I'm a former teacher who studied Linguistics at UCL. Within my degree, my passion for learning quirks of logic in language and problem solving led me to discover my interest in learning how to code. To pursue this, I attended Makers Academy, Europe's leading Web Developer bootcamp. During this time, I've learned the importance of writing clean code, asking the right questions and how to thrive on the edge of known technologies and unknown realms of possibilty.
+I'm a former teacher who studied Linguistics at UCL. Within my degree, my passion for learning quirks of logic in language and problem solving led me to discover my interest in learning how to code. To pursue this, I attended [Makers Academy](http://www.makersacademy.com/), Europe's leading Web Developer bootcamp. During this time, I've learned the importance of writing clean code, asking the right questions and how to thrive on the edge of known technologies and unknown realms of possibility.
 
 I am looking for a back-end developer role which provides opportunities to learn and grow with a team that constantly looks forward at new developments in technology.
 
@@ -21,7 +20,7 @@ I have always incorporated some form of mentoring into my role. During universit
 
 Learning is a driving force in my coding projects.
 
-I love to learn new information, especially discovering idiomatic features of languages both natural and in coding. I have demonstrated this multiple times: through my degree which was an exercise in constant problem solving, the intensive nature of the Makers Academy course, and finally through learning a new language (Elixir) within 3 days and going on to produce Quizzbuzz as a final project piece at the end of the makers course.
+I love to learn new information, especially discovering idiomatic features of languages both natural and in coding. I have demonstrated this multiple times: through my degree which was an exercise in constant problem solving, the intensive nature of the Makers Academy course, and finally through learning a new language (Elixir) within 3 days and going on to produce [Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) as a final project piece at the end of the makers course.
 
 #### Team work
 
@@ -44,7 +43,7 @@ Projects I am proud of:
 
 Project title  | Description  									| Timeframe | Technologies | Testing | Link
 ------------- | ------------------------------	| ------------- |------------- |--------- | ----------------
-[Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) | Quizzbuzz is a multiplayer timed multiple choice quiz game,  | 10 days | Elixir, Phoenix, PostgreSQL| ExUnit | [See it in action here](https://qzbz.herokuapp.com/)
+[Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) | A multiplayer quiz game  | 10 days | Elixir, Phoenix, PostgreSQL, React| ExUnit, Mocha, Enzyme | [See it in action here](https://qzbz.herokuapp.com/)
 [Bloom](https://github.com/thehappinessproject/happiness_project)| A skills tracking web app | 3 days | Ruby, Ruby on Rails, JQuery, PostgreSQL | Rspec, Capybara | [Check it out](http://bloomtracker.herokuapp.com)
 
 

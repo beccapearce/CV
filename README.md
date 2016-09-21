@@ -2,7 +2,7 @@
 
  [Education and Projects](#education) | [Skills](#skills) | [Previous Work Experience](#experience) | [Interests](#interests)
 
-I'm a former teacher who studied Linguistics at UCL. Within my degree, my passion for learning quirks of logic in language and problem solving led me to discover my interest in learning how to code. To pursue this, I attended Makers Academy, Europe's leading Web Developer bootcamp. During this time, I've learned the importance of writing clean code, asking the right questions and how to thrive on the edge of the known and unknown.
+I'm a former teacher who studied Linguistics at UCL. Within my degree, my passion for learning quirks of logic in language and problem solving led me to discover my interest in learning how to code. To pursue this, I attended Makers Academy, Europe's leading Web Developer bootcamp. During this time, I've learned the importance of writing clean code, asking the right questions and how to thrive on the edge of known technologies and unknown realms of possibilty.
 
 I am looking for a back-end developer role which provides opportunities to learn and grow with a team that constantly looks forward at new developments in technology.
 

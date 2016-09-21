@@ -55,10 +55,8 @@ Linguistics is the study of language, its processing in the brain, the sounds th
 
 ## <a name="experience">Previous Work Experience</a>
 
-- **Teacher at The Latin Programme**
-- **TEFL Teacher at EF**
-- **TEFL Tutor at UCL CLIE**
-- **Mentor at UCL**
+- **Teacher at The Latin Programme** Nov 2014 - July 2016
+- **Mentor at UCL** Sep 2012 - Sep 2013
 
 
 ## <a name="interests">Interests</a>

@@ -14,7 +14,7 @@ I am looking for a back-end developer role which provides opportunities to learn
 
 I believe that teaching is one of the best ways you can learn.
 
-I have always incorporated some form of mentoring into my role. During university I was a mentor for 9 fresher students. This led me to volunteering as a Latin teacher and then taking a job in that same company after a year. I then continued this guiding role at makers by having two mentees and aiding them in their coding journey.
+I have always incorporated some form of mentoring into my role. During university I was a mentor for 9 new students. This led me to volunteering as a Latin teacher and then taking a job in that same company after a year. I then continued this guiding role at makers by having two mentees and aiding them in their coding journey.
 
 #### Learning
 

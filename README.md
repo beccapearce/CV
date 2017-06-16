@@ -2,12 +2,17 @@
 
  [Education and Projects](#education) | [Skills](#skills) | [Previous Work Experience](#experience) | [Interests](#interests)
 
-I'm a former teacher who studied Linguistics at UCL. Within my degree, my passion for learning quirks of logic in language and problem solving led me to discover my interest in learning how to code. To pursue this, I attended [Makers Academy](http://www.makersacademy.com/), Europe's leading Web Developer bootcamp. During this time, I've learned the importance of writing clean code, asking the right questions and how to thrive on the edge of known technologies and unknown realms of possibility.
+I'm a software developer specialising in Ruby.
 
-I am looking for a back-end developer role which provides opportunities to learn and grow with a team that constantly looks forward at new developments in technology.
+After attending a pitch deck by dotforge (a tech for good incubator) I decided to put my affinity for logic and problem solving towards coding. I was really impressed by the positive impact coding can have on people and how it can amplify the efforts of one person. As a path into this realm I attended [Makers Academy](http://www.makersacademy.com/), Europe's leading Web Developer bootcamp.
 
+I am now looking for a back-end focused role which provides opportunities to learn and make something amazing.
 
 ## <a name="skills">Skills</a>
+
+#### Ruby
+
+Ruby is the language I have used (and love) the most. I can use both rails and sinatra and use a TDD approach and Object-oriented design.
 
 
 #### Mentoring
@@ -20,7 +25,7 @@ I have always incorporated some form of mentoring into my role. During universit
 
 Learning is a driving force in my coding projects.
 
-I love to learn new information, especially discovering idiomatic features of languages both natural and in coding. I have demonstrated this multiple times: through my degree which was an exercise in constant problem solving, the intensive nature of the Makers Academy course, and finally through learning a new language (Elixir) within 3 days and going on to produce [Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) as a final project piece at the end of the Makers Academy course.
+I love to learn new information, especially discovering idiomatic features of languages both natural and in coding. I have demonstrated this multiple times: through my degree which was an exercise in constant problem solving, the intensive nature of the Makers Academy course, and finally through learning a new language and framework (Elixir with Phoenix) within 3 days and going on to produce [Quizzbuzz](https://github.com/quizzbuzz/quizzbuzz) as a final project piece at the end of the Makers Academy course in the week that followed.
 
 #### Team work
 
@@ -49,9 +54,9 @@ Project title  | Description  									| Timeframe | Technologies | Testing | Li
 
 #### University College London (Sep 2011 to June 2015)
 
-- Linguistics, BA Hons 2:1
+- Linguistics with International year
 
-Linguistics is the study of language, its processing in the brain, the sounds that form it and how it's put together. I did this course with an international year spent at Ca Foscari, University of Venice.
+Linguistics is the study of language, its processing in the brain, the sounds that form it and how it's put together. I did this course with an international year spent living in Venice.
 
 ## <a name="experience">Previous Work Experience</a>
 
